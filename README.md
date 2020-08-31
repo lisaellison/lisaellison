@@ -1,5 +1,5 @@
 ### Welcome to my Repository
-- I'm a university instructor of Latin & Classical Literature, and I'm excited to see where I can go with technology. 
+- I'm a university instructor of Latin, ancient Greek & Classical Literature, and I'm excited to integrate programming and the humanities. 
 - Concept & design are the elements of programming I most enjoy, but you don't end up teaching dead languages because you're not willing to overcome some extreme obstacles. I enjoy challenges, and love the feeling of accomplishing difficult tasks. 
 
 - Poison ivy removal, baking bread, reading & making big plans for my yard are some of the things I enjoy most. 
