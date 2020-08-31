@@ -1,4 +1,4 @@
-### Welcome to my Repo
+### Welcome to my Repository
 - I'm a university instructor of Latin & Classical Literature, and I'm excited to see where I can go with technology. 
 - Concept & design are the elements of programming I most enjoy, but you don't end up teaching dead languages because you're not willing to overcome some extreme obstacles. I enjoy challenges, and love the feeling of accomplishing difficult tasks. 
 
